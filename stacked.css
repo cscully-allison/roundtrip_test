@@ -1,0 +1,46 @@
+.flameContainer {
+    width: 100%;
+ }
+ 
+ .block {
+    height: 32px;
+    width: 100px;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+ }
+ .red {
+    background-color: #f6b3b3;
+    border: 1px solid #f19797;
+ }
+ .orange {
+    background-color: #f8d3a3;
+    border: 1px solid #f6c27e;
+ }
+ .blue {
+    background-color: #99c3ea;
+    border: 1px solid #67a8e5;
+ }
+ 
+ .col0 {
+    background-color: #94ee81;
+    border: 1px solid #5ae33e;
+ }
+ .col1 {
+    background-color: #8dc7ff;
+    border: 1px solid #5ca8ef;
+ }
+ .col2 {
+    background-color: #b6bea0;
+    border: 1px solid #8d9870;
+ }
+ 
+ .row1 {
+    position: relative;
+    top: -2px;
+ }
+ 
+ .row2 {
+    position:relative;
+    top: -4px;
+ }
